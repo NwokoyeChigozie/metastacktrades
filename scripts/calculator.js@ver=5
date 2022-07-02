@@ -49,29 +49,29 @@ function DoCalculate() {
         $("#lblSelectedPlan").text(planName);
         
         if($("#plan-1").is(":checked")) {
-			$("#lblProfit").text("300.0");
+			$("#lblProfit").text("100.0");
             $("#lblDailyProfit").text(parseFloat((initial * rate)/3).toFixed(2));
             $("#lblTotalProfit").text(parseFloat(((initial * rate))).toFixed(2));
             $("#lblTotalReturn").text(parseFloat((initial * rate) + initial).toFixed(2));
             $("#lblProfitType").text("Profit");
             $("#lblProfitPeriod").text("daily for 3 Days");
         } if($("#plan-2").is(":checked")) {
-			$("#lblProfit").text("300.0");
+			$("#lblProfit").text("60.0");
             $("#lblDailyProfit").text(parseFloat((initial * rate)/5).toFixed(2));
             $("#lblTotalProfit").text(parseFloat(((initial * rate))).toFixed(2));
             $("#lblTotalReturn").text(parseFloat((initial * rate) + initial).toFixed(2));
             $("#lblProfitType").text("Profit");
             $("#lblProfitPeriod").text("daily for 5 Days");
         } if($("#plan-3").is(":checked")) {
-			$("#lblProfit").text("300.0");
-            $("#lblDailyProfit").text(parseFloat((initial * rate)/7).toFixed(2));
+			$("#lblProfit").text("30.0");
+            $("#lblDailyProfit").text(parseFloat((initial * rate)/10).toFixed(2));
             $("#lblTotalProfit").text(parseFloat(((initial * rate))).toFixed(2));
             $("#lblTotalReturn").text(parseFloat((initial * rate) + initial).toFixed(2));
             $("#lblProfitType").text("Profit");
             $("#lblProfitPeriod").text("daily for 10 Days");
         }if($("#plan-4").is(":checked")) {
-			$("#lblProfit").text("300.0");
-            $("#lblDailyProfit").text(parseFloat((initial * rate)/10).toFixed(2));
+			$("#lblProfit").text("15.0");
+            $("#lblDailyProfit").text(parseFloat((initial * rate)/20).toFixed(2));
             $("#lblTotalProfit").text(parseFloat(((initial * rate))).toFixed(2));
             $("#lblTotalReturn").text(parseFloat((initial * rate) + initial).toFixed(2));
             $("#lblProfitType").text("Profit");

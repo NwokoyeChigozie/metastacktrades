@@ -1,6 +1,6 @@
 <?php
 //sql connection
-$link = mysqli_connect("localhost", "realgtdu_msk", "Uu*1I?23+Lz(", "realgtdu_msk");
+$link = mysqli_connect("localhost", "greg", "greg1998", "astro");
 if(mysqli_connect_error()){
     die('ERROR: Unable to connect:' . mysqli_connect_error());
 }
