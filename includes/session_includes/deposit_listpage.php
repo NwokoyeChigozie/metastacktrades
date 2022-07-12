@@ -35,7 +35,7 @@ $prods = [];
                                         <table>
                                             <thead>
                                                 <tr class="table100-head">
-                                                    <th style="text-align:center;" class="column1" colspan="3">STANDARD PLAN</th>
+                                                    <th style="text-align:center;" class="column1" colspan="3">RUBY PLAN</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -45,8 +45,8 @@ $prods = [];
 								<td class="column3"> Profit (%)</th>
 						</tr> -->
                                                 <tr>
-                                                    <td class="column1">Plan STANDARD PLAN</td>
-                                                    <td class="column2">$100.00 - $5,000.00</td>
+                                                    <td class="column1">Plan RUBY</td>
+                                                    <td class="column2">$100.00 - $999.00</td>
                                                     <td class="column3"> Profit 300% daily</td>
                                                 </tr>
                                                                                                 
@@ -102,7 +102,7 @@ $prods = [];
                                         <table>
                                             <thead>
                                                 <tr class="table100-head">
-                                                    <th style="text-align:center;" class="column1" colspan="3">PROFESSIONAL PLAN</th>
+                                                    <th style="text-align:center;" class="column1" colspan="3">SILVER PLAN</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -112,8 +112,8 @@ $prods = [];
 								<td class="column3"> Profit (%)</th>
 						</tr> -->
                                                                                                 <tr>
-                                                    <td class="column1">Plan PROFESSIONAL PLAN</td>
-                                                    <td class="column2">$5,000.00 - $20,000.00</td>
+                                                    <td class="column1">Plan SILVER</td>
+                                                    <td class="column2">$1,000.00 - $9,999.00</td>
                                                     <td class="column3"> Profit 300% daily</td>
                                                 </tr>
                                                                                                 
@@ -169,7 +169,7 @@ $prods = [];
                                         <table>
                                             <thead>
                                                 <tr class="table100-head">
-                                                    <th style="text-align:center;" class="column1" colspan="3">ADVANCED PLAN</th>
+                                                    <th style="text-align:center;" class="column1" colspan="3">GOLD PLAN</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -179,8 +179,8 @@ $prods = [];
 								<td class="column3"> Profit (%)</th>
 						</tr> -->
                                                                                                 <tr>
-                                                    <td class="column1">Plan ADVANCED PLAN</td>
-                                                    <td class="column2">$10,000.00 - Unlimited</td>
+                                                    <td class="column1">Plan GOLD </td>
+                                                    <td class="column2">$10,000.00 - 29,000.00</td>
                                                     <td class="column3"> Profit 300% daily</td>
                                                 </tr>
                                                                                                 
@@ -236,7 +236,7 @@ $prods = [];
                                         <table>
                                             <thead>
                                                 <tr class="table100-head">
-                                                    <th style="text-align:center;" class="column1" colspan="3">PREMIUM PLAN</th>
+                                                    <th style="text-align:center;" class="column1" colspan="3">DIAMOND PLAN</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -246,8 +246,8 @@ $prods = [];
 								<td class="column3"> Profit (%)</th>
 						</tr> -->
                                                                                                 <tr>
-                                                    <td class="column1">Plan PREMIUM PLAN</td>
-                                                    <td class="column2">$10000.00 - unlimited</td>
+                                                    <td class="column1">Plan DIAMOND </td>
+                                                    <td class="column2">$30,000.00 - unlimited</td>
                                                     <td class="column3"> Profit 300% daily</td>
                                                 </tr>
                                                                                                 
